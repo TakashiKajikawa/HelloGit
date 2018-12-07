@@ -4,4 +4,4 @@ console.log("Hello!Git");
     console.log('test')
 })
 
-console.log('変更してみました(１回目)');
+console.log('変更してみました(2回目)');
